@@ -24,8 +24,7 @@ The item is fully integrated into the console and will appear in the auto-comple
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
 * Install the latest version of [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies, and [ModSettings](https://github.com/zeobviouslyfakeacc/ModSettings).
 * Download latest version of `HowToSurviveBookd.dll` and `HowToSurviveBook.modcomponent` from the [releases page](https://github.com/stmSantana/HowToSurviveBook/releases/latest).
-* Move the two files to the Mods folder.
-**Note:** Zip files should not be moved to the Mods folder!
+* Move both of the two files to the Mods folder.
 
 ## Special Thanks
 The Long Dark Modding Server (discord)
