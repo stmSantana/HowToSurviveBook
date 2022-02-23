@@ -1,6 +1,7 @@
 # HowToSurviveBook
 This is a mod for **The Long Dark** by Hinterland Studio, Inc.
-![image](images/HTS-v1.1.jpg "foods") 
+<img src="Images/HTS-1.jpg" width="48%"> <img src="Images/HTS-2.jpg" width="48%"> 
+<img src="Images/HTS-3.jpg" width="48%"> <img src="Images/HTS-4.jpg" width="48%"> 
  
 ## Description
 Currently, there are 6 modding books somewhere in the world.
