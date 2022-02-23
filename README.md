@@ -1,5 +1,6 @@
 # HowToSurviveBook
 This is a mod for **The Long Dark** by Hinterland Studio, Inc.
+
 <img src="Images/HTS-1.jpg" width="48%"> <img src="Images/HTS-2.jpg" width="48%"> 
 <img src="Images/HTS-3.jpg" width="48%"> <img src="Images/HTS-4.jpg" width="48%"> 
  
