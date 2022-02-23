@@ -12,7 +12,7 @@ Its optional functionality is performed by the DLL file. If you don't install th
 ### Finding Items
 All books are in hard-to-reach regions!
 
-Spoilers for those positions are ...
+Spoilers for those positions are ... [Wiki](https://github.com/stmSantana/HowToSurviveBook/wiki)
 
 ### Adding Food Items
 Using the [DeveloperConsole](https://github.com/FINDarkside/TLD-Developer-Console) CupRamen can be manually added to your inventory with the command `add htsbookaz`.
