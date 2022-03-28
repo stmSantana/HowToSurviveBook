@@ -11,6 +11,8 @@ When you pick them up, they will be stored in the Journal's collection NOTES as 
 As an option, every time you pick up a mod book, you get 10 skill points. (The value can be changed in ModSettings. `[Esc]key` - `Options` - `ModSettings`)
 Its optional functionality is performed by the DLL file. If you don't install the DLL file, the book works just as a collection item, so you won't improve your skills.
 
+**NOTE:** *Gearspawner spawns all gear only on the first visit to each location. In other words, all mod items will not spawn in locations you have already visited.*
+
 ### Finding Items
 All books are in hard-to-reach regions!
 
