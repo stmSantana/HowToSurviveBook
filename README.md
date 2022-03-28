@@ -16,7 +16,7 @@ All books are in hard-to-reach regions!
 
 Spoilers for those positions are ... [Wiki](https://github.com/stmSantana/HowToSurviveBook/wiki)
 
-### Adding Food Items
+### Adding Items
 Using the [DeveloperConsole](https://github.com/FINDarkside/TLD-Developer-Console) CupRamen can be manually added to your inventory with the command `add htsbookaz`.
 The item is fully integrated into the console and will appear in the auto-complete when pressing tab.
 
